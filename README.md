@@ -1,1 +1,1 @@
-# entregas-icaro
+essa funcionalidade é para voce criar um objetivo junto de outra pessoa que possa colaborar junto com voce para que possam alcancar o objetivo juntos ou ajudando o outro em qualquer que seja o objetivo a ser alcançado 
